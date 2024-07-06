@@ -1,3 +1,13 @@
-# tamlep_assignment_1.1
-Deliverables of TAMLEP Assignment 1.1 of Module 1
-It contains recorded sessions for Unix tutorial, Git tutorial, and Conda tutorial.
+## Tutorials
+
+This repository contains tutorial sessions for:
+- unix
+- git
+- conda
+
+## Repositories used in git tutorial session
+- my_project[https://github.com/satya-ta/my_project]
+- simplegit-progit[https://github.com/schacon/simplegit-progit]
+- ticgit[https://github.com/schacon/ticgit]
+- libgit2[https://github.com/libgit2/libgit2]
+
